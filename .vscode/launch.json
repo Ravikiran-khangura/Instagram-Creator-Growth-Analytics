@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ravikiransinghkhangura/Desktop/insta-creator-growth-analytics",
+      "program": "/Users/ravikiransinghkhangura/Desktop/insta-creator-growth-analytics/build/Debug/outDebug"
+    }
+  ]
+}
