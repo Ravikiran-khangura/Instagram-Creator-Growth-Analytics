@@ -279,9 +279,9 @@ The project provides:
 
 ## Dashboard Preview
 
-![Executive Dashboard](../tableau/dashboard_screenshots/executive_dashboard.png)
+![Executive Dashboard](./tableau/dashboard_screenshots/executive_dashboard.png)
 
-![Creator Performance](../tableau/dashboard_screenshots/creator_performance.png)
+![Creator Performance](./tableau/dashboard_screenshots/creator_performance.png)
 
 ## Author
 
@@ -290,7 +290,15 @@ Ravi Kiran Khangura
 Data Analytics | Data Science | Machine Learning
 
 ---
+## Tableau Dashboard
 
+The interactive workbook (`.twbx`) and dashboard screenshots are included in this repository.
+
+To explore the dashboard:
+
+1. Download `Instagram_Creator_Growth_Analytics.twbx`
+2. Open it using Tableau Desktop or Tableau Public Desktop Edition.
+---
 ## License
 
 MIT License
